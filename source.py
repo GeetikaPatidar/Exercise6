@@ -1,0 +1,3 @@
+prin("A")
+print("B")
+
